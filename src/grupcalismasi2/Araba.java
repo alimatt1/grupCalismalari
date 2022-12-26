@@ -30,9 +30,10 @@ public class Araba {
     }
 
     public Araba (String marka, int model, String renk){
-        this.marka=marka;
-        this.model=model;
+        this.marka="lexus";
+        this.model=2004;
         this.renk=renk;
+
 
     }
 
