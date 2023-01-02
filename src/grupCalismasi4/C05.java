@@ -28,7 +28,7 @@ public class C05 {
         gunler.add("cuma");
         gunler.add("cumartesi");
         gunler.add("pazar");
-        System.out.println(gunler);//[pazartesi, sali, carsamba, persembe, cuma, cumartesi, pazar]
+        //System.out.println(gunler);//[pazartesi, sali, carsamba, persembe, cuma, cumartesi, pazar]
 
         ArrayList<Double> gunlukKazanclar = new ArrayList<>();
 
