@@ -37,7 +37,7 @@ public class C05 {
         while (gunSayisi < 8) {
             System.out.println("gunluk kazancinizi giriniz");
             Scanner scan = new Scanner(System.in);
-            double gunkK = scan.nextInt();
+            double gunkK = scan.nextDouble();
             gunlukKazanclar.add(gunkK);
             gunSayisi++;
 

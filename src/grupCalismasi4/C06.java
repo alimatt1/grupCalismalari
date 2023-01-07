@@ -51,7 +51,7 @@ public class C06 {
         if (cOrF=='c'|| cOrF=='C'){
             shopping();
         } else if (cOrF=='f'|| cOrF=='F') {
-            System.out.println("total amaunt = " + total);
+            System.out.println("total amount = " + total);
         }else
             System.out.println("please try again");
     }
